@@ -1,0 +1,169 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+.conteudogeral{
+
+  margin: 20px 200px 20px 200px;
+ 
+}
+
+.imagemLogo{
+
+  width: 150px;
+
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header{
+
+
+  background-color: #A28655;
+  padding: 20px;
+  width: 1830px;
+ 
+}
+
+.elementosCabeçalho{
+
+  display: flex;
+   
+  justify-content: space-between;
+ 
+
+}
+
+.especificoElemento{
+
+  text-decoration: none;
+  
+  color: black;
+
+}
+
+.escola{
+
+  width: 1860px;
+  height: 400px;
+ 
+}
+
+.imagensCasas {
+
+
+  width: 300px;
+ 
+ 
+
+}
+.anuncio{
+
+  width: 1860px;
+  height: 400px;
+
+}
+
+
+
+.alinharTexto{
+
+display: flex;
+column-gap: 20px;
+
+
+
+}
+h2{
+
+  text-align: center
+}
+
+.arrumarTexto {
+
+
+padding: 50px;
+
+
+}
+
+.alinharTexto{
+
+ margin-top: 20px;
+
+
+}
+
+
+.imagensCasas{
+
+margin: 2opx;
+
+
+
+}
+
+.localizacao{
+
+  width: 400px;
+  border-radius: 20px;
+  box-shadow: rgb(85, 64, 37) 0px 20px 30px -10px;
+ 
+
+}
+.arrumarLocalizacao{
+
+  display: flex;
+  margin: 20px 200px 20px 200px;
+
+}
+
+.arrumarTexto-localizacao{
+
+  padding: 80px;
+
+
+}
+
+.rodape-alinhar{
+
+
+  text-align: left;
+ 
+
+
+
+
+
+}
+
+.rodape-alinhar2{
+
+
+  text-align: center;
+
+
+
+}
+
+.rodape-geral{
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+footer{
+
+  background-color: #A28655;
+  padding: 20px;
+  width: 1830px;
+
+}
+
